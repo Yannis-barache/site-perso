@@ -47,6 +47,11 @@ function Aside() {
             <div className={isOpen ? "dropdown-menuopen" : "dropdown-menu"}>
                 <ul>
                     <li>
+                        <a href="https://yannis-barache.github.io/site-perso/"
+                            target="_blank"
+                            rel="noopener noreferrer">Site personnel</a>
+                    </li>
+                    <li>
                         <a href="https://github.com/Yannis-barache" target="_blank"
                            rel="noopener noreferrer"> Github</a>
                     </li>
